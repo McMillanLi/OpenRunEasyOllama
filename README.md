@@ -32,7 +32,8 @@
 ### 快速开始
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/OpenRunEasyOllama.git
+git clone https://github.com/McMillanLi/OpenRunEasyOllama.git
+
 
 # 安装依赖
 pip install -r requirements.txt
