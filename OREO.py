@@ -9,8 +9,8 @@ from typing import Generator, Optional, Dict, List
 
 
 class OllamaClient:
-    def __init__(self,base_url: str = "http://192.168.110.38:11451",
-            model: str = "deepseek-r1:14b",
+    def __init__(self,base_url: str = "http://localhost:11434",
+            model: str = "请选择模型",
             timeout: int = 300,
             system_prompt: Optional[str] = None
     ):
